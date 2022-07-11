@@ -1,0 +1,38 @@
+                                                       VARIAVEL
+a Variavel serve basicamente para receber um valor e esse valor pode ser usado em algum lugar do seu programa, para declarar uma variavel digite: let 
+exemplo: let idade = 5;   no exemplo let é:a palavra chave o tipo da variavel que também pode ser Var que é uma versão mais antiga  idade é: o nome da variavel = é: operação de atribuição  5 é: o valor que estamos atribuindo. tem que finalizar sempre com ;
+
+para mostrar essa variavel na tela: usar console.log(idade)
+
+maneiras de nomear uma variavél: não pode começar o nome de uma variavel com um numero, e também não pode colocar espaço. Uma forma recomendada seria usar "camelCase" e no caso seria feito nesta escrita de que a primeira letra seria minuscula e a 
+e o segundo C seria maisculo exemplos:nomeCompleto, alturaComprimento.
+
+É importante lembrar que no javascript as letras maisculas e minisculas fazem diferença sim.
+Exemplo ao colocar o código let nome ="aston";
+                            console.log(Nome);
+daria erro pois um N é maisculo e o outro é minusculo, no caso mostraria que a variavel nome não foi definida.
+ É possivel também declarar varias variaveis de uma vez, porém não é muito recomendado pois é melhor separar uma da outra. 
+                                                       
+                                                     CONSTANTES
+quando a variavel é constante não pode mudar nada nela, em uma variavel let você consegue redefinir o valor exemplo:
+
+let valorIngressoAdulto = 20;
+
+valorIngressoAdulto = 30;
+
+console.log(valorIngressoAdulto);
+
+nesse caso como foi usado o let o valor tem que ser redefinido para 30 porém se usa
+
+const valorIngressoAdulto = 20 
+
+não pode existe a linha de baixo, pois como é constante não pode mudar.
+
+É recomendado usar o let apenas quando for preciso alterar o valor.
+ 
+Use sempre o const quando for valor que não precisa ser redefinido e é uma boa pratica usar sempre o Const como tipo de variavel o let apenas quando precisar alterar o valor.
+
+                                                      TIPOS PRIMITIVOS
+
+
+
