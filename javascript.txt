@@ -33,6 +33,19 @@ não pode existe a linha de baixo, pois como é constante não pode mudar.
 Use sempre o const quando for valor que não precisa ser redefinido e é uma boa pratica usar sempre o Const como tipo de variavel o let apenas quando precisar alterar o valor.
 
                                                       TIPOS PRIMITIVOS
+os tipos primitivos são basicamentes 2 que são: os tipos de referencia e os tipos de valores. 
+Tipos de referencia temos:  Undefined, Null, Boolean, String e Number.  
+String literal é nome que se da quando junta varias letras em uma palavra independente se tem números,espaços ou  caracteres especiais e etc. e você armazena isso em uma variavel
 
+Number literal é nome que se da quando atribui um valor numeral.
+
+Boolean é o nome que se da quando algo está aprovado ou não. vai te ajudar a construir regras no seu aplicativo.
+
+Undefined é o nome que se da a uma variavel padrão sem tipo ou definição. 
+
+Null é o nome que se da quando se quer resetar o valor. permitindo que outra pessoa consiga fazer uma escolha em casos que queira redefinir um valor.
+
+                                                 Tipagem Dinâmica
+basicamente o JavaScript reconhece o tipo, diferente de outras linguagens.
 
 
