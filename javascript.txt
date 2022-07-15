@@ -47,5 +47,18 @@ Null é o nome que se da quando se quer resetar o valor. permitindo que outra pe
 
                                                  Tipagem Dinâmica
 basicamente o JavaScript reconhece o tipo, diferente de outras linguagens.
+                                                     
+                                                    Objetos
+
+Objeto entra em tipo de referencia que são objetos, array e os functions.
+um objeto basicamente vai juntar informações em um unico lugar que você pode acessar pela propriedade daquele objeto.
+
+sintaxe para criar um objeto exemplo: let pessoa {};
+let pessoa = {nome: 'rafael'
+};
+
+como acessar a propriedade exemplo: console.log(pessoa);
+                                                        Arrays
+
 
 
